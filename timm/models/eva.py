@@ -24,7 +24,7 @@ Modifications by / Copyright 2023 Ross Wightman, original copyrights below
 """
 # EVA models Copyright (c) 2022 BAAI-Vision
 # EVA02 models Copyright (c) 2023 BAAI-Vision
-!pip install typing_extensions
+# !pip install typing_extensions
 from typing_extensions import Final
 import math
 from typing import Callable, Optional, Tuple, Union
