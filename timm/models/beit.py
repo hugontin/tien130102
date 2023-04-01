@@ -38,7 +38,7 @@ Modifications by / Copyright 2021 Ross Wightman, original copyrights below
 # https://github.com/facebookresearch/dino
 # --------------------------------------------------------'
 !pip install typing_extensions
-from typing_extension import Final
+from typing_extensions import Final
 import math
 from functools import partial
 from typing import Callable,  Optional, Tuple, Union
